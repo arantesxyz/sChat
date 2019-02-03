@@ -1,0 +1,11 @@
+name: sChat
+author: Gustavo Arantes
+website: https://arantes.xyz/
+main: xyz.arantes.dev.schat.Main
+version: 1.0
+description: Simples plugin de chat para staff
+depend: [Vault]
+commands:
+  s:
+    usage: /<command> <mensagem>
+    description: Envia a mensagem
